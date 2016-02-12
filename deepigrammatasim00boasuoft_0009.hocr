@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deepigrammatasim00boasuoft_0009.png"; bbox 0 0 2138 3626; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 72 454 1856 647">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 72 454 1856 647">
+     <span class='ocr_line' id='line_1_1' title="bbox 72 454 1856 647; baseline 0.004 -49"><span class='ocrx_word' id='word_1_1' title='bbox 72 485 201 598; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 271 454 1065 602; x_wconf 71' lang='lat' dir='ltr'>EPIGRAMMATIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1139 489 1771 606; x_wconf 59' lang='lat' dir='ltr'><strong>SIMONIDEIS.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1854 644 1856 647; x_wconf 4' lang='grc' dir='ltr'>ἡ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 781 885 1067 919">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 781 885 1067 919">
+     <span class='ocr_line' id='line_1_2' title="bbox 781 885 1067 919; baseline 0.01 -4"><span class='ocrx_word' id='word_1_5' title='bbox 781 885 886 917; x_wconf 84' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_6' title='bbox 917 886 1067 919; x_wconf 77' lang='lat' dir='ltr'><strong>PRIOR:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 830 1528 1016 1561">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 830 1528 1016 1561">
+     <span class='ocr_line' id='line_1_3' title="bbox 830 1528 1016 1561; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 830 1528 1016 1561; x_wconf 75' lang='lat' dir='ltr'>SSSSSSSS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 368 3129 1465 3170">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 368 3129 1465 3170">
+     <span class='ocr_line' id='line_1_4' title="bbox 368 3129 1465 3170; baseline 0.001 -10"><span class='ocrx_word' id='word_1_8' title='bbox 368 3129 633 3162; x_wconf 79' lang='lat' dir='ltr'>GRONINGAE</span> <span class='ocrx_word' id='word_1_9' title='bbox 663 3130 783 3160; x_wconf 72' lang='lat' dir='ltr'>APUD</span> <span class='ocrx_word' id='word_1_10' title='bbox 809 3131 837 3169; x_wconf 85' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 869 3130 902 3160; x_wconf 86' lang='grc' dir='ltr'><strong>Β.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 935 3131 1155 3170; x_wconf 72' lang='lat' dir='ltr'>WOLTERS,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1187 3131 1292 3161; x_wconf 82' lang='lat' dir='ltr'>ANN.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1324 3132 1355 3161; x_wconf 91' lang='grc' dir='ltr'>Μ</span> <span class='ocrx_word' id='word_1_15' title='bbox 1360 3132 1465 3161; x_wconf 86' lang='lat' dir='ltr'><strong>CCCC</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
